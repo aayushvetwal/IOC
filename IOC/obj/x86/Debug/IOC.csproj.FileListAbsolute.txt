@@ -1,0 +1,15 @@
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\IOC.exe
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\IOC.pdb
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\Stage1.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\Stage1.pdb
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\obj\x86\Debug\IOC.csprojResolveAssemblyReference.cache
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\obj\x86\Debug\IOC.exe
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\obj\x86\Debug\IOC.pdb
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\Stage2.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\Stage2.pdb
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\Stage3.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\Stage3.pdb
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\Stage4.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\Stage4.pdb
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\Stage5.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\IOC\bin\Debug\Stage5.pdb

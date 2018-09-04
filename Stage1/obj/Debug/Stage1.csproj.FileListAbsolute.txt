@@ -1,0 +1,4 @@
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage1\bin\Debug\Stage1.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage1\bin\Debug\Stage1.pdb
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage1\obj\Debug\Stage1.dll
+c:\users\aayush\documents\visual studio 2010\Projects\IOC\Stage1\obj\Debug\Stage1.pdb
